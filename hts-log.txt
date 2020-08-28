@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 25 Jul 2018 16:04:20 at http://northmartin.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://northmartin.com/ -O1 "C:\My Web Sites\north" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:04:56	Error: 	"Not Found" (404) at link northmartin.com/fonts/glyphicons-halflings-regular.eot (from northmartin.com/files/bootstrap.min.css)
+16:04:56	Error: 	"Not Found" (404) at link northmartin.com/fonts/glyphicons-halflings-regular.eot? (from northmartin.com/files/bootstrap.min.css)
+16:04:56	Error: 	"Not Found" (404) at link northmartin.com/fonts/glyphicons-halflings-regular.woff2 (from northmartin.com/files/bootstrap.min.css)
+16:04:56	Error: 	"Not Found" (404) at link northmartin.com/fonts/glyphicons-halflings-regular.woff (from northmartin.com/files/bootstrap.min.css)
+16:04:56	Error: 	"Not Found" (404) at link northmartin.com/fonts/glyphicons-halflings-regular.ttf (from northmartin.com/files/bootstrap.min.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/glyphicons-halflings-regular.svg (from northmartin.com/files/bootstrap.min.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/files/owl.video.play.png (from northmartin.com/files/owl.carousel.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/fontawesome-webfont.eot?v=4.6.3 (from northmartin.com/files/font-awesome.min.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/fontawesome-webfont.eot? (from northmartin.com/files/font-awesome.min.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/fontawesome-webfont.woff2?v=4.6.3 (from northmartin.com/files/font-awesome.min.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/fontawesome-webfont.woff?v=4.6.3 (from northmartin.com/files/font-awesome.min.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/fontawesome-webfont.ttf?v=4.6.3 (from northmartin.com/files/font-awesome.min.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/fontawesome-webfont.svg?v=4.6.3 (from northmartin.com/files/font-awesome.min.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/Flaticon.eot (from northmartin.com/files/flaticon.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/Flaticon.eot? (from northmartin.com/files/flaticon.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/Flaticon.woff (from northmartin.com/files/flaticon.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/Flaticon.ttf (from northmartin.com/files/flaticon.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/fonts/Flaticon.svg (from northmartin.com/files/flaticon.css)
+16:04:57	Error: 	"Not Found" (404) at link northmartin.com/files/Flaticon.svg (from northmartin.com/files/flaticon.css)
+16:05:10	Error: 	"Not Found" (404) at link northmartin.com/images/bg/1.png (from northmartin.com/files/styles.css)
+16:05:10	Error: 	"Not Found" (404) at link northmartin.com/images/about.jpg (from northmartin.com/files/responsive.css)
+16:05:10	Error: 	"Not Found" (404) at link northmartin.com/Popover requires tooltip.js (from northmartin.com/files/bootstrap.min.js)
+16:05:10	Error: 	"Not Found" (404) at link northmartin.com/es5-ext/string/ (from https://assets.secure.checkout.visa.com/checkout-widget/resources/js/integration/v1/sdk.js)
+16:05:10	Error: 	"Not Found" (404) at link northmartin.com/es5-ext/array/ (from https://assets.secure.checkout.visa.com/checkout-widget/resources/js/integration/v1/sdk.js)
+16:05:10	Error: 	"Not Found" (404) at link northmartin.com/lodash.set (from https://assets.secure.checkout.visa.com/checkout-widget/resources/js/integration/v1/sdk.js)
+16:05:10	Error: 	"Not Found" (404) at link northmartin.com/wallet-services-web/xo/button.png?cardArtOnly=true (from https://assets.secure.checkout.visa.com/checkout-widget/resources/js/integration/v1/sdk.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 58 links scanned, 31 files written (1455465 bytes overall) [1326484 bytes received at 26529 bytes/sec], 244896 bytes transferred using HTTP compression in 1 files, ratio 30%, 11.6 requests per connection
+(26 errors, 0 warnings, 0 messages)
